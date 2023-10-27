@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Helson Cheung
+- 👋 Hi, I’m Cheung
 - 👀 I’m interested in travelling and watching movie
 - 🌱 I’m currently learning computer science and data science
 - 💞️ I’m looking to collaborate on computer science and data science project
